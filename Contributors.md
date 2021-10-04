@@ -2107,6 +2107,14 @@ Himanshu Dedha
 - [Firejoust](https://github.com/camezza)
 - [Ahmad Takkoush](https://github.com/ahmadtakkoush)
 - [Raghavendra] (https://raghavendrarao4.github.io/)
+- [Aditya Sharma] (https://github.com/adityash1)
+- [Rajendra Rakha] (https://github.com/rjndrkha)
+- [Sofía I. Crespo Maldonado] (https://github.com/SofiaCrespoMaldo)
+- [Aashish Duddukuri] (https://github.com/aashd)
+- [Jacob Beene] (https://github.com/jebeene)
+- [Simran Keshri](https://github.com/sims-keshri)
+- [Alessandro Bertani](https://github.com/alessandrobertani)
+- [Nilson Takayuki Sasaki](https://github.com/nilsonsasaki)
 - [Raunak Namdeo] (https://github.com/reckerx)
 
 <!-- prettier-ignore-end -->
